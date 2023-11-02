@@ -1,0 +1,17 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "three.js playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx vite"
+  },
+  "author": "CyborgCodes",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
