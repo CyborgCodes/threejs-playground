@@ -2,7 +2,7 @@
 
 ### Javascript 3D library
 
-The library `three.js` is an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current builds only include a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available as addons.
+`three.js` is an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current builds only include a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available as addons.
 
 [Read the Docs](https://threejs.org/docs/#manual/en/introduction/Installation)
 
